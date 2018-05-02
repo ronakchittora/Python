@@ -1,3 +1,7 @@
+"""
+This is the first 4-chili exercise of this blog! We’ll see what people think, and decide whether or not to continue with 4-chili exercises in the future.
+"""
+
 import requests
 from bs4 import BeautifulSoup
 
